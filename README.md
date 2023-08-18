@@ -4,7 +4,7 @@
 Todas as informarções que estiver nesse repositório é/são anotações/resumos/atividades relacionadas ao BootCamp - FullStack na plataforma da [DIO](https://www.dio.me/)
 
 
-## 🛠 Tecnologias que serão utilizadas ao decorrer do curso XX
+## 🛠 Tecnologias que serão utilizadas ao decorrer do curso 
 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
